@@ -5,12 +5,7 @@
     box-sizing: border-box;
 
 }
-img{
-    max-width: 100%;
-    width: 8rem;
-    text-align: start;
-    
-}
+
     /* end common  */
 
 /* debug */
@@ -42,15 +37,12 @@ img{
     display: flex;
     justify-content: center;
     align-content: center;
-   
+
 }
 .flex-container1{
     display: flex;
     justify-content: center;
     align-items: center;
-   
-    
-   
 }
 /* end utilities  */
 
@@ -62,7 +54,7 @@ header{
 }
 img{
     text-align: start;
-    padding-top: 1.58rem;
+    padding-top: 0.6rem;
     background-color: #daa520;
 }
 .login{
@@ -89,19 +81,30 @@ body{
 .intestation{
     margin-top: ;
     text-align:start;
-
-
 }
-.main1{
+.main{
     margin-top: 3rem;
     width: 60%;
     margin-bottom: 3rem;
     background-color: #ee82ee;
-    border-radius: 5px;
-}
-main{
-    background-color: #000099;
-    min-height: 440px;
 
+}
+
+.bg-color-main{
+    background-color: #000099;
+    min-height: 600px;
+}
+.main1{
+    width: 40%;
+    margin-bottom: 3rem;    
+    background-color: #1e90ff;
+}
+.main2{
+    width: 20%;
+    background-color: #ffc0cb;
+}
+.bg-color-main1{
+    background-color: white;
+    min-height: 600px;
 }
 /* end body  */
