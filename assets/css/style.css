@@ -18,8 +18,8 @@
     background-color: #add8e6;
 }
 .debug main{
-    height: 3900px;
-    background-color:#000099;
+    height: 3905px;
+    background-color:#ffffff;
 }
 
 
@@ -157,6 +157,7 @@ body{
 
 /* footer  */
 footer{
+
     min-height: 70px;
     width: 50%;
     margin: auto;
