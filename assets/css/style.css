@@ -20,18 +20,18 @@ img{
 
 .debug header{
     height: 80px;
-    background-color: red;
+    background-color: #add8e6;
 }
 .debug main{
     height: 600px;
-    background-color: blue;
+    background-color:#000099;
 
 }
 
 
 .debug footer{
     height: 70px;
-    background-color: red;
+    background-color: #ee82ee;
 }
 
 /* end debug  */
@@ -62,18 +62,18 @@ header{
 }
 img{
     text-align: start;
-    padding-top: 1.55rem;
-    background-color: chocolate;
+    padding-top: 1.58rem;
+    background-color: #daa520;
 }
 .login{
     text-align: end;
     width: 10%;
-    background-color: chocolate;
-    padding-top: 1.55rem;
+    background-color: #daa520;
+    padding-top: 1.58rem;
 }
 h1{
    width:100%;
-   background-color: chocolate;
+   background-color: #daa520;
    padding-top: 0.4rem;
 }
 /* end header  */
@@ -84,7 +84,7 @@ body{
 
 }
 .bg-color{
-    background-color: rgb(127, 219, 255);
+    background-color: #add8e6;
 }
 .intestation{
     margin-top: ;
@@ -96,11 +96,11 @@ body{
     margin-top: 3rem;
     width: 60%;
     margin-bottom: 3rem;
-    background-color: rgb(236, 112, 216);
+    background-color: #ee82ee;
     border-radius: 5px;
 }
 main{
-    background-color: blue;
+    background-color: #000099;
     min-height: 440px;
 
 }
