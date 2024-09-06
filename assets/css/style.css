@@ -149,12 +149,8 @@ body{
 }/* end body  */
 
 
-.bg-color-main5{
-    background-color: #7fffd4;
 
-
-}
-
+/* end body  */
 /* footer  */
 footer{
 
@@ -166,4 +162,9 @@ footer{
 .bottone{
     background-color: #ffb6c1;
     padding: 0.2rem;
+}
+.bg-color-main5{
+    background-color: #7fffd4;
+
+
 }
