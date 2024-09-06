@@ -1,20 +1,107 @@
 /* common */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
 
 }
-.debug *{
+img{
+    max-width: 100%;
+    width: 8rem;
+    text-align: start;
     
+}
+    /* end common  */
+
+/* debug */
+.debug *{
+    border: 1px dashed;
 }
 
 .debug header{
-
+    height: 80px;
+    background-color: red;
 }
 .debug main{
-    
+    height: 600px;
+    background-color: blue;
+
 }
+
+
 .debug footer{
-    
+    height: 70px;
+    background-color: red;
 }
+
+/* end debug  */
+
+/* utilities */
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+.flex-container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+   
+}
+/* end utilities  */
+
+/* header  */
+header{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(127, 219, 255);
+}
+img{
+    text-align: start;
+    padding-top: 1.55rem;
+    background-color: chocolate;
+}
+.login{
+    text-align: end;
+    width: 10%;
+    background-color: chocolate;
+    padding-top: 1.55rem;
+}
+h1{
+   width:100%;
+   background-color: chocolate;
+   padding-top: 0.4rem;
+}
+/* end header  */
+
+/* body  */
+body{
+    background-color: beige;
+
+}
+.bg-color{
+    background-color: rgb(127, 219, 255);
+}
+.intestation{
+    margin-top: ;
+    text-align:start;
+
+
+}
+.main1{
+    margin-top: 3rem;
+    width: 60%;
+    margin-bottom: 3rem;
+    background-color: rgb(236, 112, 216);
+    border-radius: 5px;
+}
+main{
+    background-color: blue;
+    min-height: 440px;
+
+}
+/* end body  */
