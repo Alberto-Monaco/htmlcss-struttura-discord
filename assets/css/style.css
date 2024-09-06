@@ -61,7 +61,7 @@ header{
 }
 img{
     text-align: start;
-    padding-top: 0.6rem;
+    padding-top: 0.58rem;
     background-color: #daa520;
 }
 .login{
@@ -117,5 +117,16 @@ body{
 .bg-color-main2{
     background-color: #d3d3d3;
     min-height: 600px;
+}
+.bg-color-main3{
+    background-color: #d3d3d3;
+    min-height: 900px;
+}
+.main3{
+    margin-top: 3rem;
+    width: 60%;
+    margin-bottom: 3rem;
+    background-color: #228b22;
+
 }
 /* end body  */
