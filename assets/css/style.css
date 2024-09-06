@@ -18,15 +18,14 @@
     background-color: #add8e6;
 }
 .debug main{
-    height: 600px;
+    height: 3900px;
     background-color:#000099;
-
 }
 
 
 .debug footer{
     height: 70px;
-    background-color: #ee82ee;
+    background-color: #7fffd4;
 }
 
 /* end debug  */
@@ -51,6 +50,12 @@
     align-content: center;
     
 }
+.flex-container3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 /* end utilities  */
 
 /* header  */
@@ -79,7 +84,7 @@ h1{
 
 /* body  */
 body{
-    background-color: beige;
+    background-color: #23272a;
 
 }
 .bg-color{
@@ -142,3 +147,22 @@ body{
     width:10%;
     background-color: #20b2aa;
 }/* end body  */
+
+
+.bg-color-main5{
+    background-color: #7fffd4;
+
+
+}
+
+/* footer  */
+footer{
+    min-height: 70px;
+    width: 50%;
+    margin: auto;
+
+}
+.bottone{
+    background-color: #ffb6c1;
+    padding: 0.2rem;
+}
