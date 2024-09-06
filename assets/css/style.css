@@ -122,6 +122,10 @@ body{
     background-color: #d3d3d3;
     min-height: 900px;
 }
+.bg-color-main4{
+    background-color: #23272a;
+    min-height: 600px;
+}
 .main3{
     margin-top: 3rem;
     width: 60%;
@@ -129,4 +133,12 @@ body{
     background-color: #228b22;
 
 }
-/* end body  */
+.main4{
+    width: 20%;
+    margin-bottom: 3rem;    
+    background-color: #f08080;
+}
+.main5{
+    width:10%;
+    background-color: #20b2aa;
+}/* end body  */
