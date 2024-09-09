@@ -158,17 +158,16 @@ body {
 /* end body  */
 /* footer  */
 footer {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4rem;
 	width: 60%;
-
 }
 .bottone {
 	background-color: #ffb6c1;
 	padding: 0.2rem;
 }
 .bg-color-main5 {
-    min-height: 80px;
+	min-height: 80px;
 	background-color: #7fffd4;
 }
